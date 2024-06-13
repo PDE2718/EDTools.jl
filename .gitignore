@@ -2,6 +2,6 @@
 **/.DS_Store
 *DS_Store
 **/.jld2
-# **/.vscode*
-# .vscode
-# .vscode/*
+**/.vscode*
+.vscode
+.vscode/*
